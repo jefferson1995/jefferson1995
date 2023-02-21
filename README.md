@@ -2,9 +2,18 @@
 
 # Olá! Eu sou o Jefferson Barbosa. 
 ##
-🎓 - Estudande de Análise e Desenvolvimento de Sistemas.
+🎓 - Formação: Análise e Desenvolvimento de Sistemas.
 <br>
-📚 - Além da faculdade estou me dedicando através de curso de especialização, estou desenvolvendo habilidades e conhecimentos que me possibilita criar aplicações do zero utilizando as tecnologias do mercado.
+📚 - Como desenvolvedor Junior, possuo experiência com o framework Spring Boot do Java, desde a criação de projetos até a organização em camadas. Com habilidades em criar entidades, perfis de projeto, seeding da base de dados e criar web services REST, aplicando padrão DTO e realizando CRUD completo, além de tratar exceções e dados de auditoria, bem como paginação de dados.
+
+Além disso, possuo conhecimento em testes automatizados, utilizando TDD e JUnit tanto com quanto sem o Spring Boot. Realizo testes de integração e mocko dependências com Mockito e MockBean, aplicando assertivas de qualidade.
+
+Para validação de dados, utilizo Bean Validation, e possuo conhecimento em autenticação e autorização com OAuth2 e JWT, aplicando ORM e seed de banco de dados, autorizações customizadas em nível de serviço, conteúdo customizado para o usuário logado, refresh token e pré-autorização de métodos.
+
+Para consultas de banco de dados, aplico JPA e JPQL e soluciono o problema das N+1 consultas, bem como consultas nativas com SQL. Possuo conhecimento em fundamentos de Docker, imagens e containers, Docker Hub, build e implantação manual de um projeto Spring Boot na AWS, CI/CD com Heroku, AWS e Github Actions.
+
+Estou em constante busca por conhecimento e aplico as melhores práticas no desenvolvimento de projetos, sempre pensando na qualidade e na entrega de valor aos usuários. Com minha experiência e habilidades, busco contribuir para o sucesso de projetos em equipe e alcançar os objetivos propostos.
+
 
 ##
 <div align="center">
