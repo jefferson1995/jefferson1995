@@ -11,49 +11,49 @@ Dois anos de experiência com Java, melhorando o desempenho, integrações de ap
 
 Sou apaixonado por tecnologia, busco solucionar problemas de projetos com eficiência em equipe e estou em constante busca por conhecimento.
 
-Técnicas e habilidades:
-• Java;
-• Springboot;
-• Git;
-• Heroku;
-• AWS
-• OAuth2
-• TDD e JUnit 5
-• JPA / Hibernate
-• SQL / JPQL
-• MVC
-• JWT refresh token
-• Spring security
-• CI/CD
-• Docker, imagens e containers, Docker Hub e build
-• Github Actions
-• ORM e seed de banco de dados
-• pré-autorização de métodos
-• Soluciono o problema das N+1 consultas
-• Autorizações customizadas em nível de serviço
-• Conteúdo customizado para o usuário logado
-• CRUD completo
-• Web services REST
-• Padrão DTO
-• Exceções e dados de auditoria
+Técnicas e habilidades:<br>
+• Java;<br>
+• Springboot;<br>
+• Git;<br>
+• Heroku;<br>
+• AWS<br>
+• OAuth2<br>
+• TDD e JUnit 5<br>
+• JPA / Hibernate<br>
+• SQL / JPQL<br>
+• MVC<br>
+• JWT refresh token<br>
+• Spring security<br>
+• CI/CD<br>
+• Docker, imagens e containers, Docker Hub e build<br>
+• Github Actions<br>
+• ORM e seed de banco de dados<br>
+• pré-autorização de métodos<br>
+• Soluciono o problema das N+1 consultas<br>
+• Autorizações customizadas em nível de serviço<br>
+• Conteúdo customizado para o usuário logado<br>
+• CRUD completo<br>
+• Web services REST<br>
+• Padrão DTO<br>
+• Exceções e dados de auditoria<br>
 
-Ferramentas:
-• Visual Studio Code;
-• IntelliJ
-• Eclipse
-• Github;
-• Postman / SoapUI
-• PgAdmin - postgree
+Ferramentas:<br>
+• Visual Studio Code;<br>
+• IntelliJ<br>
+• Eclipse<br>
+• Github;<br>
+• Postman / SoapUI<br>
+• PgAdmin - postgree<br>
 
 
-Soft Skill:
-• Apredizado rápido e organização
-• Solucionar problemas
-• Expência com cliente 
-• Boa comunicação 
-• Trabalho em equipe 
-• Melhoria de produtividade
-• Experiência com mapeamento de processos de negócio
+Soft Skill:<br>
+• Apredizado rápido e organização<br>
+• Solucionar problemas<br>
+• Expência com cliente <br>
+• Boa comunicação <br>
+• Trabalho em equipe <br>
+• Melhoria de produtividade<br>
+• Experiência com mapeamento de processos de negócio<br>
 
 
 
