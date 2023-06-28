@@ -13,7 +13,8 @@ Sou apaixonado por tecnologia, busco solucionar problemas de projetos com efici�
 
 Técnicas e habilidades:<br>
 • Java;<br>
-• Springboot;<br>
+• Spring Boot;<br>
+• Javascript;<br>
 • Git;<br>
 • Heroku;<br>
 • AWS<br>
