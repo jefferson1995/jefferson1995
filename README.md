@@ -12,11 +12,11 @@ Dois anos de experiência com Java, melhorando o desempenho, integrações de ap
 Sou apaixonado por tecnologia, busco solucionar problemas de projetos com eficiência em equipe e estou em constante busca por conhecimento.
 
 Técnicas e habilidades:<br>
-• Java;<br>
-• Spring Boot;<br>
-• Javascript;<br>
-• Git;<br>
-• Heroku;<br>
+• Java<br>
+• Spring Boot<br>
+• Javascript<br>
+• Git<br>
+• Heroku<br>
 • AWS<br>
 • OAuth2<br>
 • TDD e JUnit 5<br>
