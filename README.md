@@ -48,14 +48,14 @@ Técnicas e habilidades: <br>
  • TDD e JUnit 5
 
 - Ferramentas<br>
- • Visual Studio Code / IntelliJ / Eclipse
- • Github;
- • Postman / SoapUI
- • PgAdmin - Postgre
- • MongoDB Compass
- • Git / Github Actions / CI/CD / 
- • Heroku / AWS 
- • Docker, imagens e containers, Docker Hub e build
+ • Visual Studio Code / IntelliJ / Eclipse<br>
+ • Github;<br>
+ • Postman / SoapUI<br>
+ • PgAdmin - Postgre<br>
+ • MongoDB Compass<br>
+ • Git / Github Actions / CI/CD / <br>
+ • Heroku / AWS <br>
+ • Docker, imagens e containers, Docker Hub e build<br>
 
 
 
