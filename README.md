@@ -12,17 +12,17 @@ Dois anos de experiência com Java, melhorando o desempenho, integração de apl
 Sou apaixonado por tecnologia, busco solucionar problemas de projetos com eficiência em equipe e estou em constante busca por conhecimento.
 
 Soft Skill:<br>
-• Aprendizado rápido/ Organização
-• Solucionar problemas
-• Experiência com cliente 
-• Boa comunicação 
-• Trabalho em equipe 
-• Melhoria de produtividade
-• Experiência com mapeamento de processos de negócio
+• Aprendizado rápido/ Organização<br>
+• Solucionar problemas<br>
+• Experiência com cliente <br>
+• Boa comunicação <br>
+• Trabalho em equipe <br>
+• Melhoria de produtividade<br>
+• Experiência com mapeamento de processos de negócio<br>
 
 Técnicas e habilidades: <br>
 
-- Linguagem de Programação
+- Linguagem de Programação<br>
  • Java (Principal)
  • Javascript (Conhecimento intermediário, uso atualmente na empresa que trabalho)
 
