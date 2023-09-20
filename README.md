@@ -55,7 +55,7 @@ Técnicas e habilidades: <br>
   - MongoDB Compass<br>
   - Git / Github Actions / CI/CD / <br>
   - Heroku / AWS <br>
-  -Docker, imagens e containers, Docker Hub e build<br>
+  - Docker, imagens e containers, Docker Hub e build<br>
 
 
 
