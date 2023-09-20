@@ -7,54 +7,55 @@
 📚 - 
 
 Desenvolvedor Back end, especializado em Java com Spring boot.
-Dois anos de experiência com Java, melhorando o desempenho, integrações de aplicativos e aplicando melhores práticas no desenvolvimento de projetos, sempre pensando na qualidade e na entrega de valor aos usuários
+Dois anos de experiência com Java, melhorando o desempenho, integração de aplicativos e aplicando melhores práticas no desenvolvimento de projetos, sempre pensando na qualidade e na entrega de valor aos usuários
 
 Sou apaixonado por tecnologia, busco solucionar problemas de projetos com eficiência em equipe e estou em constante busca por conhecimento.
 
-Técnicas e habilidades:<br>
-• Java<br>
-• Spring Boot<br>
-• Javascript<br>
-• Git<br>
-• Heroku<br>
-• AWS<br>
-• OAuth2<br>
-• TDD e JUnit 5<br>
-• JPA / Hibernate<br>
-• SQL / JPQL<br>
-• MVC<br>
-• JWT refresh token<br>
-• Spring security<br>
-• CI/CD<br>
-• Docker, imagens e containers, Docker Hub e build<br>
-• Github Actions<br>
-• ORM e seed de banco de dados<br>
-• pré-autorização de métodos<br>
-• Soluciono o problema das N+1 consultas<br>
-• Autorizações customizadas em nível de serviço<br>
-• Conteúdo customizado para o usuário logado<br>
-• CRUD completo<br>
-• Web services REST<br>
-• Padrão DTO<br>
-• Exceções e dados de auditoria<br>
-
-Ferramentas:<br>
-• Visual Studio Code;<br>
-• IntelliJ<br>
-• Eclipse<br>
-• Github;<br>
-• Postman / SoapUI<br>
-• PgAdmin - postgree<br>
-
-
 Soft Skill:<br>
-• Apredizado rápido e organização<br>
-• Solucionar problemas<br>
-• Expência com cliente <br>
-• Boa comunicação <br>
-• Trabalho em equipe <br>
-• Melhoria de produtividade<br>
-• Experiência com mapeamento de processos de negócio<br>
+• Aprendizado rápido/ Organização
+• Solucionar problemas
+• Experiência com cliente 
+• Boa comunicação 
+• Trabalho em equipe 
+• Melhoria de produtividade
+• Experiência com mapeamento de processos de negócio
+
+Técnicas e habilidades: <br>
+
+- Linguagem de Programação
+ • Java (Principal)
+ • Javascript (Conhecimento intermediário, uso atualmente na empresa que trabalho)
+
+-Padrão de projeto com Java<br>
+ • Padrão de projeto DAO (Data Access Object)
+
+- Framework<br>
+ • Spring Boot 
+ • CRUD completo / Web services REST / MVC / Padrão DTO / Exceções e dados de auditoria
+
+- Spring security<br>
+ • JWT refresh token / OAuth2 / pré-autorização de métodos / 
+ • Autorizações customizadas em nível de serviço / Conteúdo customizado para o usuário logado
+
+- Banco de Dados<br>
+ •ORM e seed de banco de dados
+ • JPA / Hibernate
+ •SQL / JPQL
+ •problema das N+1 consultas
+ Acesso ao banco de dados com JDBC
+
+- Desenvolvimento Orientado a testes<br>
+ • TDD e JUnit 5
+
+- Ferramentas<br>
+ • Visual Studio Code / IntelliJ / Eclipse
+ • Github;
+ • Postman / SoapUI
+ • PgAdmin - Postgre
+ • MongoDB Compass
+ • Git / Github Actions / CI/CD / 
+ • Heroku / AWS 
+ • Docker, imagens e containers, Docker Hub e build
 
 
 
