@@ -23,40 +23,39 @@ Soft Skill:<br>
 Técnicas e habilidades: <br>
 
 - Linguagem de Programação<br>
- -
- • Java (Principal)
- • Javascript (Conhecimento intermediário, uso atualmente na empresa que trabalho)
+  -  Java (Principal)<br>
+  - Javascript (Conhecimento intermediário, uso atualmente na empresa que trabalho)<br>
 
--Padrão de projeto com Java<br>
- • Padrão de projeto DAO (Data Access Object)
+- Padrão de projeto com Java<br>
+  - Padrão de projeto DAO (Data Access Object)<br>
 
 - Framework<br>
- • Spring Boot 
- • CRUD completo / Web services REST / MVC / Padrão DTO / Exceções e dados de auditoria
+  - Spring Boot <br>
+  - CRUD completo / Web services REST / MVC / Padrão DTO / Exceções e dados de auditoria<br>
 
 - Spring security<br>
- • JWT refresh token / OAuth2 / pré-autorização de métodos / 
- • Autorizações customizadas em nível de serviço / Conteúdo customizado para o usuário logado
+  - JWT refresh token / OAuth2 / pré-autorização de métodos / <br>
+  - Autorizações customizadas em nível de serviço / Conteúdo customizado para o usuário logado<br>
 
 - Banco de Dados<br>
- •ORM e seed de banco de dados
- • JPA / Hibernate
- •SQL / JPQL
- •problema das N+1 consultas
- Acesso ao banco de dados com JDBC
+   - ORM e seed de banco de dados <br>
+   - JPA / Hibernate<br>
+   - SQL / JPQL<br>
+   - problema das N+1 consultas<br>
+   - Acesso ao banco de dados com JDBC<br>
 
-- Desenvolvimento Orientado a testes<br>
- • TDD e JUnit 5
+- Desenvolvimento Orientado a testes<br><br>
+  - TDD e JUnit 5<br>
 
 - Ferramentas<br>
- • Visual Studio Code / IntelliJ / Eclipse<br>
- • Github;<br>
- • Postman / SoapUI<br>
- • PgAdmin - Postgre<br>
- • MongoDB Compass<br>
- • Git / Github Actions / CI/CD / <br>
- • Heroku / AWS <br>
- • Docker, imagens e containers, Docker Hub e build<br>
+  - Visual Studio Code / IntelliJ / Eclipse<br>
+  - Github;<br>
+  - Postman / SoapUI<br>
+  - PgAdmin - Postgre<br>
+  - MongoDB Compass<br>
+  - Git / Github Actions / CI/CD / <br>
+  - Heroku / AWS <br>
+  -Docker, imagens e containers, Docker Hub e build<br>
 
 
 
