@@ -23,6 +23,7 @@ Soft Skill:<br>
 Técnicas e habilidades: <br>
 
 - Linguagem de Programação<br>
+ -
  • Java (Principal)
  • Javascript (Conhecimento intermediário, uso atualmente na empresa que trabalho)
 
