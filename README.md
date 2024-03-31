@@ -7,55 +7,83 @@
 📚 - 
 
 Desenvolvedor Back end, especializado em Java com Spring boot.
-Dois anos de experiência com Java, melhorando o desempenho, integração de aplicativos e aplicando melhores práticas no desenvolvimento de projetos, sempre pensando na qualidade e na entrega de valor aos usuários
 
-Sou apaixonado por tecnologia, busco solucionar problemas de projetos com eficiência em equipe e estou em constante busca por conhecimento.
+Três anos de experiência com Java, melhorando o desempenho, integração de aplicativos e aplicando melhores práticas no desenvolvimento de projetos, sempre pensando na qualidade e na entrega de valor aos usuários. Sou apaixonado por tecnologia, busco solucionar problemas de projetos com eficiência em equipe e estou em constante busca por conhecimento.
 
-Soft Skill:<br>
-• Aprendizado rápido/ Organização<br>
-• Solucionar problemas<br>
-• Experiência com cliente <br>
-• Boa comunicação <br>
-• Trabalho em equipe <br>
-• Melhoria de produtividade<br>
-• Experiência com mapeamento de processos de negócio<br>
+Minhas técnicas e habilidades incluem:
 
-Técnicas e habilidades: <br>
 
-- Linguagem de Programação<br>
-  -  Java (Principal)<br>
-  - Javascript (Conhecimento intermediário, uso atualmente na empresa que trabalho)<br>
+Soft Skill: <br>
 
-- Padrão de projeto com Java<br>
-  - Padrão de projeto DAO (Data Access Object)<br>
+• Aprendizado rápido/ Organização <br>
 
-- Framework<br>
-  - Spring Boot <br>
-  - CRUD completo / Web services REST / MVC / Padrão DTO / Exceções e dados de auditoria<br>
+• Solucionar problemas <br>
 
-- Spring security<br>
-  - JWT refresh token / OAuth2 / pré-autorização de métodos / <br>
-  - Autorizações customizadas em nível de serviço / Conteúdo customizado para o usuário logado<br>
+• Experiência com cliente  <br>
 
-- Banco de Dados<br>
-   - ORM e seed de banco de dados <br>
-   - JPA / Hibernate<br>
-   - SQL / JPQL<br>
-   - problema das N+1 consultas<br>
-   - Acesso ao banco de dados com JDBC<br>
+• Boa comunicação  <br>
 
-- Desenvolvimento Orientado a testes<br><br>
-  - TDD e JUnit 5<br>
+• Trabalho em equipe  <br>
 
-- Ferramentas<br>
-  - Visual Studio Code / IntelliJ / Eclipse<br>
-  - Github;<br>
-  - Postman / SoapUI<br>
-  - PgAdmin - Postgre<br>
-  - MongoDB Compass<br>
-  - Git / Github Actions / CI/CD / <br>
-  - Heroku / AWS <br>
-  - Docker, imagens e containers, Docker Hub e build<br>
+• Melhoria de produtividade <br>
+
+• Experiência com mapeamento de processos de negócio <br>
+
+Técnicas e habilidades:  <br>
+
+- Linguagem de Programação <br>
+
+ • Java (Principal) <br>
+
+ • Javascript (Conhecimento intermediário, uso atualmente na empresa em que trabalho) <br>
+
+-Padrão de projeto com Java <br>
+
+
+ • Padrão de projeto DAO (Data Access Object) <br>
+
+ • MVC: Model-View-Controller e Hexagonal (Desacoplamento e isolamento do Core  Application) <br>
+
+ • Modelar Sistemas Distribuídos. <br>
+
+ • Arquiteturas de Microservices: <br>
+
+- Comunicação Síncrona - Assíncrona / Comunicação Assíncrona One-Way / Comunicação OneToOne <br>
+
+- Messages via Events / Mensageria / Messages via Commands <br>
+
+- Dados Distribuídos / Sincronia Dados <br>
+
+- Consumer/Producer / Request/Response Assíncrono - Síncrono <br>
+
+- Publisher/Subscribe / Exchanges / Queues / Bindings / Brokers  <br>
+
+- Resiliência Síncrona / Retry / Teorema CAP / Consistência Eventual / UUIDs Universais <br>
+
+Framework Spring Boot: Amplo conhecimento em vários aspectos do Spring Boot, incluindo Spring Data/JPA, Spring Validation, Spring AMQP, Spring Cloud Config Server e Client, Spring HATEOAS, Spring Security, Lombok, Spring Cloud Netflix Eureka, Spring Cloud Gatewaya,  Spring Logback/Log4j2, Spring Actuator,  RestTemplate, entre outros. <br>
+Desenvolvimento Orientado a Testes: Prática de TDD (Test-Driven Development) e uso de JUnit 5. <br>
+
+- Ferramentas <br>
+
+ • Visual Studio Code / IntelliJ / Eclipse <br>
+
+ • Github / Git / Github Actions / CI/CD   <br>
+
+ • Postman / SoapUI <br>
+
+ • PgAdmin - Postgre / MongoDB Compass <br>
+
+ • Heroku / AWS  <br>
+
+ • Docker, imagens e containers, Docker Hub e build <br>
+
+ • CloudAMQP <br>
+
+ • Configuração de Múltiplos Ambientes: Dev e Prod <br>
+
+ • Métricas de Logs com Kibana <br>
+
+ • Elasticsearch (Search engine) / Logs Estruturados com ECS Logging e Log4j2 / Beats e FileBeat / Observabilidade com Elastic Stack (ELK) / Beats e FileBeat <br>
 
 
 
