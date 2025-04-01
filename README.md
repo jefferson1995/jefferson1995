@@ -1,12 +1,13 @@
 ###  👋
 
-# Olá! Eu sou o Jefferson Barbosa. 
+# Olá! Eu sou o Jefferson Barbosa.
+Profissão: Software Developer at Softplan
 ##
 🎓 - Formação: Análise e Desenvolvimento de Sistemas.
 <br>
 📚 - 
 
-Desenvolvedor Back end, especializado em Java com Spring boot.
+Desenvolvedor Backend, especializado em Java com Spring boot.
 
 Quatro anos de experiência com Java, melhorando o desempenho, integração de aplicativos e aplicando melhores práticas no desenvolvimento de projetos, sempre pensando na qualidade e na entrega de valor aos usuários. Sou apaixonado por tecnologia, busco solucionar problemas de projetos com eficiência em equipe e estou em constante busca por conhecimento.
 
